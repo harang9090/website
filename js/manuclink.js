@@ -27,7 +27,7 @@ function makingform() {
         <textarea rows="4" cols="50" placeholder="자신의 소감을 작성해 주세요."></textarea>
         <button>확인</button>
     </div>
-
+    <hr>
 </div>
     `;
 
